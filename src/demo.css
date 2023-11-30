@@ -1,0 +1,135 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+}
+/*demoproject
+ #login{
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    background-color: #ab8a96;
+    margin-left: 400px;
+    margin-top: 200px;
+    
+   
+}
+#login h2
+{
+    color: wheat;
+    background-color:cadetblue;
+}
+#n1{
+   
+    margin-top: 30px;
+}
+#p{
+    
+    margin-top: 20px;
+}
+#n1 label{
+    margin-right: 10px;
+}
+input{
+    margin-left: 20px;
+   
+    border-radius: 5px;
+    width: 170px;
+    height: 25px;
+    background-color: antiquewhite;
+}
+input:hover{
+    background-color: #ab8a96;
+}
+ button{
+    border: 3px solid black;
+    margin-top: 20px;
+    width: 130px;
+    height: 30px;
+    color: green;
+ }
+ button:hover{
+    background-color: #ab8a96;
+ }
+ #head{
+    margin-top: -400px;
+    color: wheat;
+    background-color:cadetblue;
+    width: 100%;
+    height: 40px;
+ }
+ #head h2{
+   
+    margin-left: 40px;
+    margin-top: -30px;
+    font-size: 30px;
+    
+ }
+ #ul{
+   display: flex;
+   margin-top: -35px;
+   margin-left: 650px;
+   justify-content: space-around;
+   font-size: 20px;
+   
+ 
+    
+
+ }
+ #ul li{
+   
+    padding: 4px;
+    border-right: 2px solid yellow;
+    border-right-width: 3px;
+
+   
+    
+ } */
+ body{
+    text-align: center;
+ }
+ #contain{
+    margin-left: 450px;
+    margin-top: 100px;
+    border: 4px solid black;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    background-color:aquamarine;
+
+ }
+ h1{
+    border: 4px solid rgb(43, 226, 226);
+    
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    padding: 2px;
+    background-color: #616d7e;
+    
+ }
+ input{
+     margin-top: 40px;
+   margin-left: -5px;
+    width: 230px;
+    height: 35px;
+    background-color:#95B9C7;
+    color: black;
+ }
+ button{
+    background-color: blue;
+   
+    width: 40px;
+    height: 35px;
+
+}
+.b1{
+   background-color:#FFAE42;
+   width: 70px;
+   height: 35px;
+   margin-left: 20px;
+   margin-top: 30px;
+   
+}
